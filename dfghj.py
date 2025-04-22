@@ -1,3 +1,4 @@
 p = 90
 c = 80
-print(c, b)
+if c > p:
+    print(c, b)
